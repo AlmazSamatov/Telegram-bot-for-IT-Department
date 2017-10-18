@@ -7,5 +7,5 @@ https://github.com/AlmazSamatov/Telegram-bot-for-IT-Department/tree/master/htdoc
 
 # How it works:
 <p align="left">
-  <img src="/telegram_bot.gif" width="400"/>
+  <img src="/telegram_bot.gif" width="350"/>
 </p>

@@ -6,4 +6,4 @@ I have been worked on bot itself i.e. interaction with user and Telegram Bot API
 https://github.com/AlmazSamatov/Telegram-bot-for-IT-Department/tree/master/htdocs/bot
 
 # How it works:
-https://github.com/AlmazSamatov/Telegram-bot-for-IT-Department/blob/master/telegram_bot.gif
+![](https://github.com/AlmazSamatov/Telegram-bot-for-IT-Department/blob/master/telegram_bot.gif)
